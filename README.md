@@ -4,4 +4,4 @@ Quake 3 Arena / Quake Live Config File
 
 
 
-[Hier](https://github.com/ulgrimar/QuakeConfig/blob/master/myconfig.cfg) findet ihr eine gut Dokumentierte Konfigurationsdatei für Quake 3 Arena / Quake Live. Der Soucecode zu Quake3 findest du [hier] (https://github.com/id-Software/Quake-III-Arena)
+[Hier](https://github.com/ulgrimar/QuakeConfig/blob/master/myconfig.cfg) findet ihr eine gut Dokumentierte Konfigurationsdatei für Quake 3 Arena / Quake Live. Der Soucecode zu Quake3 findest du [hier] (https://github.com/id-Software/Quake-III-Arena).
